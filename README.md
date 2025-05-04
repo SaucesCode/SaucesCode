@@ -20,7 +20,7 @@ Django | React
 
 **Other:**
 
-Git | GitHub | Responsive Design | RESTful APIs
+Git | PostgreSQL | Responsive Design | RESTful APIs
 
 <br>
 
