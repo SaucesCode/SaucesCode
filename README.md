@@ -44,8 +44,8 @@ Here are a few of my highlighted projects:
 ### <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Let's Connect!
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/james-patrick-de-mesa-93582424b/)
-[![Facebook](https://img.shields.io/badge/-Facebook-%231877F2?style=for-the-badge&logo=facebook&logoColor=white)]([YOUR_FACEBOOK_PROFILE_HERE](https://www.facebook.com/okayyyyyJames))
-[![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)]([YOUR_INSTAGRAM_PROFILE_HERE](https://www.instagram.com/jmsptrck16_/))
-[![Gmail](https://img.shields.io/badge/-Gmail-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white)](jamessdemesa@gmail.com)
+[![Facebook](https://img.shields.io/badge/-Facebook-%231877F2?style=for-the-badge&logo=facebook&logoColor=white)]((https://www.facebook.com/okayyyyyJames))
+[![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)]((https://www.instagram.com/jmsptrck16_/))
+[![Gmail](https://img.shields.io/badge/-Gmail-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jamessdemesa@gmail.com)
 
 <br>
