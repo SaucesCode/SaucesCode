@@ -12,8 +12,10 @@
 
 **Languages:**
 HTML | CSS | JavaScript | Python
+
 **Frameworks/Libraries:**
 Django | React
+
 **Other:**
 Git | GitHub | Responsive Design | RESTful APIs
 
