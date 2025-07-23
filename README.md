@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=+I'm+James+Patrick+I.+De+Mesa!&font=Pacifico&center=true&size=30">
-</p>
+<h1 align="center">Hi, I'm James Patrick I. De Mesa</h1>
 
 <p align="center">
   A passionate Full Stack Web Developer exploring the exciting world of web development.
