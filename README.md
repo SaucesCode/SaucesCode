@@ -16,17 +16,21 @@ HTML | CSS | JavaScript | Python
 
 **Frameworks/Libraries:**
 
-Django | React
+React | Express | Node.js | Django | Tailwind CSS
 
-**Other:**
+**Database:**
 
-Git | PostgreSQL | Responsive Design | RESTful APIs
+MongoDB | PostgreSQL
+
+**Other Tools & Technologies:**
+
+Git | JWT (JSON Web Tokens) | RESTful APIs | Responsive Design
 
 <br>
 
 ### 🌱 Currently Learning
 
-Continuously expanding my knowledge in modern web development techniques and exploring advanced concepts within the Django and React ecosystems.
+Deepening my skills in the **MERN Stack** (MongoDB, Express, React, Node.js), authentication with **JWT**, and advanced UI design using **Tailwind CSS**. Continuously exploring modern full-stack development best practices.
 
 <br>
 
@@ -36,7 +40,7 @@ Here are a few of my highlighted projects:
 
 * **[portfolio-website](https://github.com/SaucesCode/portfolio-website):** A personal portfolio website showcasing my skills and projects in web development. Built with HTML, CSS, and JavaScript.
 * **[file-organizer](https://github.com/SaucesCode/file-organizer):** A file organizer tool that automatically sorts files into designated folders based on their file extensions.
-* **[react\_todolist](https://github.com/SaucesCode/react_todolist):** A simple and intuitive to-do list application built using React.
+* **[react_todolist](https://github.com/SaucesCode/react_todolist):** A simple and intuitive to-do list application built using React.
 * **[react-weather-app](https://github.com/SaucesCode/react-weather-app):** A responsive weather application built with React, allowing users to get current weather information for a specified location.
 
 <br>
@@ -47,5 +51,3 @@ Here are a few of my highlighted projects:
 [![Facebook](https://img.shields.io/badge/-Facebook-%231877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/okayyyyyJames)
 [![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jmsptrck16_/)
 [![Gmail](https://img.shields.io/badge/-Gmail-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jamessdemesa@gmail.com)
-
-<br>
