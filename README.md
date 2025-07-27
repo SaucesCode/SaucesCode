@@ -47,17 +47,6 @@ Deepening my skills in the **MERN Stack** (MongoDB, Express, React, Node.js), au
 
 <br>
 
-### 🔭 Projects
-
-Here are a few of my highlighted projects:
-
-* **[portfolio-website](https://github.com/SaucesCode/portfolio-website):** A personal portfolio website showcasing my skills and projects in web development. Built with HTML, CSS, and JavaScript.
-* **[file-organizer](https://github.com/SaucesCode/file-organizer):** A file organizer tool that automatically sorts files into designated folders based on their file extensions.
-* **[react_todolist](https://github.com/SaucesCode/react_todolist):** A simple and intuitive to-do list application built using React.
-* **[react-weather-app](https://github.com/SaucesCode/react-weather-app):** A responsive weather application built with React, allowing users to get current weather information for a specified location.
-
-<br>
-
 ### <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Let's Connect!
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/james-patrick-de-mesa-93582424b/)
