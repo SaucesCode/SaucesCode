@@ -60,30 +60,44 @@ I specialize in:
 
 ## Featured Project
 
-### Dynamic Portfolio CMS
+### QuickAid Geomapping System
 
-A full-stack portfolio website with a private CMS dashboard for managing projects, skills, experience, certifications, blog posts, and contact messages.
+A web-based disaster response and beneficiary management platform that uses geospatial mapping to visualize affected areas, track aid distribution, and streamline emergency response operations.
 
-**Tech Stack:** React, Node.js, Express.js, PostgreSQL, Prisma ORM
+**Key Features:**
+- Interactive map visualization of beneficiaries and affected locations
+- Application and approval workflow for assistance requests
+- Role-based dashboards for administrators, staff, and support personnel
+- Document generation and reporting
+- Audit logs and beneficiary history tracking
 
-🔗 Repository: https://github.com/SaucesCode/portfolio-cms/tree/my-website
+**Tech Stack:** Django, PostgreSQL, React, Leaflet, Tailwind
 
 ---
 
 ## Currently Learning
 
-- Advanced React patterns
-- API security and authentication
-- Deployment with Vercel, Render, and Neon
-- Scalable application architecture
+I am continuously expanding my expertise in modern full-stack development, with a strong focus on:
+
+- Advanced React patterns for building scalable and maintainable frontend architectures
+- API security best practices, including authentication and authorization strategies
+- Supabase Authentication for streamlined user management and access control
+- System design principles for architecting robust and efficient applications
+- Scalable software architecture and clean code practices
 
 ---
 
 ## GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=SaucesCode&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaucesCode&layout=compact&theme=tokyonight&hide_border=true" />
+  <img
+    height="170"
+    src="https://github-readme-stats.vercel.app/api?username=SaucesCode&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800"
+  />
+  <img
+    height="170"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaucesCode&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800"
+  />
 </p>
 
 ---
