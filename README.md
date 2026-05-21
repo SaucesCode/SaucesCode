@@ -1,55 +1,106 @@
-<h1 align="center">Hi, I'm James Patrick I. De Mesa</h1>
+<h1 align="center">James Patrick I. De Mesa</h1>
 
 <p align="center">
-  A passionate Full Stack Web Developer exploring the exciting world of web development.
+  <strong>Full-Stack Web Developer</strong><br>
+  Building scalable web applications with React, Node.js, Express, PostgreSQL, and Prisma.
 </p>
 
-<br>
+<p align="center">
+  <a href="https://www.linkedin.com/in/james-patrick-de-mesa-93582424b/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:jamessdemesa@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/SaucesCode">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
 
-### 🛠️ Skills
+---
 
-**Languages:**  
+## About Me
+
+I am a full-stack web developer focused on building modern, responsive, and database-driven applications. I enjoy transforming ideas into production-ready systems using clean architecture, intuitive user interfaces, and maintainable backend APIs.
+
+I specialize in:
+
+- Frontend development with React and Vite
+- REST API development with Node.js and Express
+- Database design with PostgreSQL and Prisma ORM
+- Authentication and admin dashboards
+- Responsive UI design with Tailwind CSS
+
+---
+
+## Tech Stack
+
+### Frontend
 <p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=react,vite,js,html,css,tailwind" />
 </p>
 
-**Frameworks / Libraries:**  
+### Backend
 <p>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,python,django" />
 </p>
 
-**Database:**  
+### Database & ORM
 <p>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=postgresql,mongodb" />
+  <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" />
 </p>
 
-**Other Tools & Technologies:**  
+### Tools
 <p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
-  <img src="https://img.shields.io/badge/REST-02569B?style=for-the-badge&logo=rest&logoColor=white" />
-  <img src="https://img.shields.io/badge/Responsive%20Design-000000?style=for-the-badge&logo=responsive&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
 </p>
 
-<br>
+---
 
-### 🌱 Currently Learning
+## Featured Project
 
-Deepening my skills in the **MERN Stack** (MongoDB, Express, React, Node.js), authentication with **JWT**, and advanced UI design using **Tailwind CSS**. Continuously exploring modern full-stack development best practices.
+### Dynamic Portfolio CMS
 
-<br>
+A full-stack portfolio website with a private CMS dashboard for managing projects, skills, experience, certifications, blog posts, and contact messages.
 
-### <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Let's Connect!
+**Tech Stack:** React, Node.js, Express.js, PostgreSQL, Prisma ORM
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/james-patrick-de-mesa-93582424b/)
-[![Facebook](https://img.shields.io/badge/-Facebook-%231877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/okayyyyyJames)
-[![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jmsptrck16_/)
-[![Gmail](https://img.shields.io/badge/-Gmail-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jamessdemesa@gmail.com)
+🔗 Repository: https://github.com/SaucesCode/portfolio-cms/tree/my-website
+
+---
+
+## Currently Learning
+
+- Advanced React patterns
+- API security and authentication
+- Deployment with Vercel, Render, and Neon
+- Scalable application architecture
+
+---
+
+## GitHub Stats
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=SaucesCode&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaucesCode&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## Connect With Me
+
+<p>
+  <a href="https://www.linkedin.com/in/james-patrick-de-mesa-93582424b/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://www.facebook.com/okayyyyyJames">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/jmsptrck16_/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="mailto:jamessdemesa@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
