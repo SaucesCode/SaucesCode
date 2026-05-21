@@ -89,11 +89,11 @@ A web-based disaster response and beneficiary management platform that uses geos
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=SaucesCode&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"
+    src="https://github-readme-stats-sigma-five.vercel.app/api?username=SaucesCode&show_icons=true&theme=tokyonight&hide_border=true"
     height="170"
   />
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaucesCode&layout=compact&theme=tokyonight&hide_border=true&count_private=true&hide=Jupyter%20Notebook"
+    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=SaucesCode&layout=compact&theme=tokyonight&hide_border=true&hide=Jupyter%20Notebook"
     height="170"
   />
 </p>
