@@ -77,12 +77,10 @@ A web-based disaster response and beneficiary management platform that uses geos
 
 ## Currently Learning
 
-I am continuously expanding my expertise in modern full-stack development, with a strong focus on:
-
-- Advanced React patterns for building scalable and maintainable frontend architectures
-- API security best practices, including authentication and authorization strategies
-- Supabase Authentication for streamlined user management and access control
-- System design principles for architecting robust and efficient applications
+- Advanced React patterns
+- API security and authentication
+- Supabase Authentication
+- System design and scalable architecture
 - Scalable software architecture and clean code practices
 
 ---
@@ -91,12 +89,12 @@ I am continuously expanding my expertise in modern full-stack development, with 
 
 <p align="center">
   <img
+    src="https://github-readme-stats-sigma-five.vercel.app/api?username=SaucesCode&show_icons=true&theme=tokyonight&hide_border=true"
     height="170"
-    src="https://github-readme-stats.vercel.app/api?username=SaucesCode&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800"
   />
   <img
+    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=SaucesCode&layout=compact&theme=tokyonight&hide_border=true"
     height="170"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaucesCode&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800"
   />
 </p>
 
