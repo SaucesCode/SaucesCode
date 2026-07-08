@@ -94,7 +94,9 @@ https://github.com/SaucesCode/QuickAid-Geomapping
 
 <br/>
 
-<img height="165" src="https://streak-stats.demolab.com?user=SaucesCode&theme=tokyonight&hide_border=true"/>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SaucesCode&theme=tokyo-night&hide_border=true" />
+</p>
 
 </div>
 
