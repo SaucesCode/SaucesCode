@@ -14,109 +14,119 @@ Building scalable, database-driven web applications with React, Node.js, Express
 
 ---
 
-## About Me
+# About Me
 
-I'm a full-stack developer focused on turning ideas into production-ready systems — clean architecture on the backend, intuitive interfaces on the front, and databases designed to hold up under real use.
+I'm a full-stack developer focused on turning ideas into production-ready systems—clean architecture on the backend, intuitive interfaces on the front, and databases designed to hold up under real use.
 
-**I specialize in:**
+### I specialize in
 
 - Frontend development with React and Vite
-- REST API design with Node.js and Express
-- Database design with PostgreSQL and Prisma ORM
+- REST API development with Node.js and Express
+- Database design using PostgreSQL and Prisma ORM
 - Authentication systems and admin dashboards
-- Responsive UI development with Tailwind CSS
+- Responsive interfaces with Tailwind CSS
 
 ---
 
-## Tech Stack
+# Tech Stack
 
-**Frontend**
+### Frontend
 
 ![React](https://skillicons.dev/icons?i=react,vite,js,html,css,tailwind)
 
-**Backend**
+### Backend
 
 ![Backend](https://skillicons.dev/icons?i=nodejs,express,python,django)
 
-**Database & ORM**
+### Database & ORM
 
 ![Database](https://skillicons.dev/icons?i=postgresql,mongodb)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
 
-**Tools**
+<img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" />
+
+### Tools
 
 ![Tools](https://skillicons.dev/icons?i=git,github,vscode,postman)
 
 ---
 
-## Featured Project
+# Featured Project
 
-### QuickAid Geomapping System
+## QuickAid Geomapping System
 
 A web-based disaster response and beneficiary management platform that uses geospatial mapping to visualize affected areas, track aid distribution, and streamline emergency response operations.
 
-**Key features:**
-- Interactive map visualization of beneficiaries and affected locations
-- Application and approval workflow for assistance requests
-- Role-based dashboards for administrators, staff, and support personnel
-- Document generation and reporting
-- Audit logs and beneficiary history tracking
+### Key Features
 
-**Tech stack:** Django · PostgreSQL · React · Leaflet · Tailwind CSS
+- Interactive beneficiary mapping
+- Application & approval workflow
+- Role-based dashboards
+- Reporting & document generation
+- Beneficiary history tracking
 
-[View repository →](https://github.com/SaucesCode/QuickAid-Geomapping)
+### Built With
+
+Django • PostgreSQL • React • Leaflet • Tailwind CSS
+
+🔗 **Repository**
+
+https://github.com/SaucesCode/QuickAid-Geomapping
 
 ---
 
-## Currently Learning
+# Currently Learning
 
 - Advanced React patterns
-- API security and authentication
+- API Security
 - Supabase Authentication
-- System design and scalable software architecture
-- Clean code practices for long-lived codebases
+- Software Architecture
+- Scalable System Design
 
 ---
 
-## GitHub Stats
+# GitHub Statistics
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=SaucesCode&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaucesCode&layout=compact&theme=tokyonight&hide_border=true&hide=Jupyter%20Notebook" height="165" />
+<img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=SaucesCode&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+
+<img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=SaucesCode&layout=compact&theme=tokyonight&hide_border=true"/>
 
 <br/>
 
-<img src="https://streak-stats.demolab.com/?user=SaucesCode&theme=tokyonight&hide_border=true" height="165" />
-
-<br/><br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=SaucesCode&theme=tokyonight&no-frame=true&column=7&margin-w=8&margin-h=8" />
+<img height="165" src="https://streak-stats.demolab.com?user=SaucesCode&theme=tokyonight&hide_border=true"/>
 
 </div>
 
 ---
 
-## Connect With Me
+# Connect With Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/james-patrick-de-mesa-93582424b/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:jamessdemesa@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://github.com/SaucesCode">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
+
+<a href="https://www.linkedin.com/in/james-patrick-de-mesa-93582424b/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:jamessdemesa@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/SaucesCode">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
 </p>
 
 <p align="center">
-  <sub>Also on <a href="https://www.facebook.com/okayyyyyJames">Facebook</a> and <a href="https://www.instagram.com/jmsptrck16_/">Instagram</a></sub>
+<a href="https://www.facebook.com/okayyyyyJames">Facebook</a> •
+<a href="https://www.instagram.com/jmsptrck16_/">Instagram</a>
 </p>
 
 <br/>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=SaucesCode&style=for-the-badge&color=0A66C2" alt="Profile views" />
+
+<img src="https://komarev.com/ghpvc/?username=SaucesCode&style=for-the-badge&color=0A66C2"/>
+
 </div>
