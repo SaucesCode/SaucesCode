@@ -90,8 +90,7 @@ https://github.com/SaucesCode/QuickAid-Geomapping
 
 <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=SaucesCode&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
 
-<img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=SaucesCode&layout=compact&theme=tokyonight&hide_border=true"/>
-
+<img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=SaucesCode&layout=compact&theme=tokyonight&hide_border=true&hide=jupyter%20notebook"/>
 <br/>
 
 <p align="center">
