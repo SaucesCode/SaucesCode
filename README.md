@@ -88,11 +88,15 @@ https://github.com/SaucesCode/QuickAid-Geomapping
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=SaucesCode&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+<!-- GitHub Streak & Commit Stats -->
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=SaucesCode&theme=tokyonight&hide_border=true" />
 
-<img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=SaucesCode&layout=compact&theme=tokyonight&hide_border=true&hide=jupyter%20notebook"/>
+<!-- Top Languages alternative via GitHub Readme Stats (with fallback query) -->
+<img height="165" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=SaucesCode&layout=compact&theme=tokyonight&hide_border=true&hide=jupyter%20notebook"/>
+
 <br/>
 
+<!-- Activity Graph -->
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=SaucesCode&theme=tokyo-night&hide_border=true" />
 </p>
