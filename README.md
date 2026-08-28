@@ -66,14 +66,21 @@ A web-based disaster response and beneficiary management platform that leverages
 
 <div align="center">
 
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=SaucesCode&theme=tokyonight&hide_border=true" />
-<img height="165" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=SaucesCode&layout=compact&theme=tokyonight&hide_border=true&hide=jupyter%20notebook"/>
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=SaucesCode&theme=tokyonight&hide_border=true" alt="Streak Stats" />
 
-<br/>
+<br/><br/>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SaucesCode&theme=tokyo-night&hide_border=true" />
-</p>
+### 📊 Language Breakdown & Contributions
+
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://github.com/SaucesCode)
+[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://github.com/SaucesCode)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://github.com/SaucesCode)
+[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://github.com/SaucesCode)
+[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://github.com/SaucesCode)
+
+<br/><br/>
+
+[![SaucesCode's Contribution Grid](https://ghchart.rshah.org/89b4fa/SaucesCode)](https://github.com/SaucesCode)
 
 </div>
 
