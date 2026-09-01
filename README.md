@@ -78,10 +78,6 @@ A web-based disaster response and beneficiary management platform that leverages
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://github.com/SaucesCode)
 [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://github.com/SaucesCode)
 
-<br/><br/>
-
-[![SaucesCode's Contribution Grid](https://ghchart.rshah.org/89b4fa/SaucesCode)](https://github.com/SaucesCode)
-
 </div>
 
 ---
