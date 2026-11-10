@@ -1,120 +1,69 @@
-<div align="center">
-
 # James Patrick I. De Mesa
 
-### Full-Stack Software Engineer
+**Full-Stack Software Engineer** · Philippines
 
-**Business systems · Web applications · APIs · Databases · Thoughtful interfaces**
+I build software around real workflows—from the database and API to the interface people use every day.
 
-I design and build software that turns complex workflows into practical, maintainable applications.
-
-[**Portfolio**](https://jamespatrickdemesa.vercel.app/) · [**LinkedIn**](https://www.linkedin.com/in/james-patrick-de-mesa-93582424b/) · [**Email**](mailto:jamessdemesa@gmail.com) · [**Repositories**](https://github.com/SaucesCode?tab=repositories)
-
-</div>
+[Portfolio](https://jamespatrickdemesa.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/james-patrick-de-mesa-93582424b/) · [Email](mailto:jamessdemesa@gmail.com)
 
 ---
 
-## About me
+## About
 
-I'm a Philippines-based developer working across the stack—from responsive user interfaces and REST APIs to relational data modeling and administrative workflows. I enjoy building systems that help people manage information, make decisions, and get work done.
+My work sits at the intersection of **software engineering and practical business needs**. I build applications that manage records, connect teams to information, make data easier to understand, and turn complicated processes into usable interfaces.
 
-My work spans **business management systems, applicant tracking and geomapping, AI-assisted applications, content platforms, and e-commerce**. I care about clear architecture, usable interfaces, and testing the behavior that matters.
+I work across the stack: designing relational data models, developing APIs, implementing access controls, and building responsive web experiences. I also explore mobile products, AI integrations, and custom WordPress and e-commerce development.
 
-## Selected projects
+## Selected work
 
-### 01 · [QuickAid — Applicant Management & Geomapping](https://github.com/SaucesCode/QuickAid-Geomapping)
+### 01 / [QuickAid — Applicant Management & Geomapping](https://github.com/SaucesCode/QuickAid-Geomapping)
 
-**Social assistance operations · Geospatial data · Analytics**
+An applicant management system that brings records, geographic information, and operational reporting into one workspace. Includes interactive maps and heatmaps, location-based filtering, approval workflows, staff administration, and printable documents.
 
-An applicant-management platform that brings applications, geographic insights, and staff workflows into one place.
+**Built with:** React, Django REST Framework, PostgreSQL, Leaflet, Tailwind CSS  
+[Repository](https://github.com/SaucesCode/QuickAid-Geomapping) · [Project website](https://quick-aid-geomappingv1.vercel.app/)
 
-- **What it does:** Applicant records; map and heatmap views; geographic and demographic filters; analytics dashboards; staff administration; approval tracking; printable documents.
-- **Engineering highlights:** Django REST APIs, PostgreSQL-backed data, JWT authentication, role-aware workflows, and Leaflet-powered visualization.
-- **Built with:** React · Django REST Framework · PostgreSQL · Leaflet · Tailwind CSS
+### 02 / [Rowszein's Delight — Business Management System](https://github.com/SaucesCode/Rowszein-s-Delight)
 
-[Source code](https://github.com/SaucesCode/QuickAid-Geomapping) · [Web application](https://quick-aid-geomappingv1.vercel.app/)
+A business operations application for a dessert shop, covering products, ingredients, recipes, inventory, sales, expenses, and cost reporting. Development includes documented functional checks and database testing.
 
-### 02 · [Rowszein's Delight — Business Management System](https://github.com/SaucesCode/Rowszein-s-Delight)
+**Built with:** React, Vite, Django REST Framework, PostgreSQL, Tailwind CSS  
+[Repository](https://github.com/SaucesCode/Rowszein-s-Delight) · [Project website](https://rowszeins-s-delight.vercel.app/) · **In active development**
 
-**Inventory · Recipes · Sales · Business reporting**
+### 03 / [SiaMeal Snap — AI Nutrition Companion](https://github.com/SaucesCode/siaMeal-Snap)
 
-A management system for a dessert shop, designed to connect ingredient records, product recipes, costs, sales, and expenses.
+A React Native application for meal logging, photo-assisted nutrition estimates, macronutrient tracking, hydration, and AI-assisted coaching. Its architecture uses Supabase Edge Functions to keep AI service credentials off the client.
 
-- **What it does:** Ingredient and product management, recipe costing, sales and expense records, and a profit dashboard.
-- **Engineering highlights:** Relational business data, API-backed operational workflows, and a growing set of documented database, browser, and regression checks.
-- **Built with:** React · Vite · Django REST Framework · PostgreSQL · Tailwind CSS
-- **Status:** Actively being developed and verified; not presented as production-ready.
+**Built with:** React Native, Expo, TypeScript, Supabase, PostgreSQL, AI APIs  
+[Repository](https://github.com/SaucesCode/siaMeal-Snap)
 
-[Source code](https://github.com/SaucesCode/Rowszein-s-Delight) · [Website](https://rowszeins-s-delight.vercel.app/)
+### 04 / [Portfolio CMS — Publishing & Administration](https://github.com/SaucesCode/portfolio-cms)
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/SaucesCode/Rowszein-s-Delight/my-website/docs/audit/evidence/dashboard-desktop.png" alt="Rowszein's Delight desktop dashboard screenshot from the repository's audit evidence" width="850" />
-  <br />
-  <sub>Rowszein's Delight — desktop dashboard (repository audit capture)</sub>
-</p>
+A personal publishing platform with a custom administration workspace for projects, writing, experience, skills, and contact messages. The public site and management interface share an API and relational database.
 
-### 03 · [SiaMeal Snap — AI Nutrition Companion](https://github.com/SaucesCode/siaMeal-Snap)
+**Built with:** React, Express, PostgreSQL, Prisma, Tailwind CSS  
+[Repository](https://github.com/SaucesCode/portfolio-cms) · [Project website](https://jamespatrickdemesa.vercel.app/)
 
-**Mobile development · AI integration · Personal analytics**
+### More projects
 
-A mobile nutrition-tracking app for photo-assisted meal logging, macro and hydration tracking, and context-aware AI coaching.
+- **[Job Application Tracker + AI Resume Fit](https://github.com/SaucesCode/Job-Application-Tracker-AI-Resume-Fit-MERN-Stack)** — A MERN application for tracking hiring stages and exploring AI-assisted resume matching. The AI analysis feature is still being improved.
+- **[Kinetix Athletics](https://github.com/SaucesCode/kinetix-athletics-theme)** — A custom WordPress storefront theme exploring editorial product presentation and Shopify integration. Shopify compatibility is still being worked on.
 
-- **What it does:** Meal image analysis, editable nutrition estimates, daily logging, hydration tracking, and progress visualizations.
-- **Engineering highlights:** Expo/React Native architecture, Supabase Edge Functions for AI requests, PostgreSQL with row-level security, and a review step before committing estimated meal data.
-- **Built with:** React Native · Expo · TypeScript · Supabase · PostgreSQL · Gemini / OpenAI APIs
+## Technical toolkit
 
-[Source code](https://github.com/SaucesCode/siaMeal-Snap)
-
-### 04 · [Portfolio & CMS — Full-Stack Content Platform](https://github.com/SaucesCode/portfolio-cms)
-
-**Custom CMS · API design · Content workflows**
-
-A developer portfolio with an accompanying administrative workspace for managing projects, skills, experience, articles, and incoming messages.
-
-- **What it does:** Separates public portfolio pages from a private content-management workflow.
-- **Engineering highlights:** Shared Express API, PostgreSQL data access with Prisma, and a custom React admin interface.
-- **Built with:** React · Vite · Express · PostgreSQL · Prisma · Tailwind CSS
-
-[Source code](https://github.com/SaucesCode/portfolio-cms) · [Portfolio website](https://jamespatrickdemesa.vercel.app/)
-
-## More work
-
-**[Job Application Tracker + AI Resume Fit](https://github.com/SaucesCode/Job-Application-Tracker-AI-Resume-Fit-MERN-Stack)** — An application pipeline tracker with authentication, hiring-stage organization, and an in-progress AI resume-fit feature. **React · Express · MongoDB · Gemini API**. [Website](https://job-application-tracker-ai-resume-fit.onrender.com/)
-
-**[Kinetix Athletics — WordPress Commerce Theme](https://github.com/SaucesCode/kinetix-athletics-theme)** — A custom WordPress storefront theme exploring responsive product presentation, editorial design, and Shopify storefront integration. **WordPress · PHP · JavaScript · Shopify Storefront API**. [Theme preview](https://saucescode.github.io/kinetix-athletics-theme/)
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/SaucesCode/kinetix-athletics-theme/my-website/screenshot.png" alt="Kinetix Athletics WordPress theme preview screenshot" width="850" />
-  <br />
-  <sub>Kinetix Athletics — WordPress theme preview (repository screenshot)</sub>
-</p>
-
-## Technology & tools
-
-| Area | Technologies |
-| :-- | :-- |
-| **Frontend** | React, TypeScript, JavaScript, HTML, CSS, Tailwind CSS, Vite |
-| **Backend** | Python, Django, Django REST Framework, Node.js, Express |
-| **Data** | PostgreSQL, MongoDB, Prisma, Supabase |
-| **Mobile & integration** | React Native, Expo, REST APIs, Leaflet, AI APIs |
-| **Platforms & workflow** | WordPress, PHP, Git, GitHub, Postman |
+**Frontend:** React, TypeScript, JavaScript, Vite, Tailwind CSS, HTML, CSS  
+**Backend:** Python, Django, Django REST Framework, Node.js, Express  
+**Data:** PostgreSQL, MongoDB, Prisma, Supabase  
+**Other:** React Native, Expo, WordPress, PHP, Leaflet, Git, GitHub, REST APIs
 
 ## How I approach engineering
 
-- **Start with the workflow.** Understand users, business rules, and data relationships before expanding features.
-- **Design for maintainability.** Keep components, API boundaries, and data access understandable and consistent.
-- **Treat security as engineering work.** Consider authentication, authorization, input validation, and data access controls during implementation.
-- **Verify what matters.** Use tests, browser checks, and documented review checkpoints to identify and resolve issues.
-- **Make usability part of quality.** Build clear, responsive interfaces for both desktop and mobile screens.
+- **Understand the workflow first.** The data and business rules should make sense before the interface grows around them.
+- **Keep the boundaries clear.** Authentication, authorization, validation, and API behavior deserve deliberate design.
+- **Build for real use.** Responsive interfaces, meaningful feedback, and maintainable code matter as much as features.
+- **Verify and improve.** I value reproducible testing, written decisions, and honest documentation of work still in progress.
 
 ---
 
-<div align="center">
-
-### Let's connect
-
-Interested in collaborating on a full-stack application, internal system, or digital product?
-
-[**View my projects**](https://github.com/SaucesCode?tab=repositories) · [**Connect on LinkedIn**](https://www.linkedin.com/in/james-patrick-de-mesa-93582424b/) · [**Email me**](mailto:jamessdemesa@gmail.com)
-
-</div>
+**Have a project or an interesting problem to discuss?**  
+[Connect on LinkedIn](https://www.linkedin.com/in/james-patrick-de-mesa-93582424b/) or [send me an email](mailto:jamessdemesa@gmail.com).
